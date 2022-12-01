@@ -199,7 +199,6 @@ app.delete(
   }
 );
 
-// user routes
 app.get("/signup", (request, response) => {
   response.render("signup", {
     title: "Signup",

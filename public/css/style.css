@@ -1,6 +1,6 @@
 body {
-  font-family: sans-serif;
-  background: #ffffff;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background: #87e3e3;
 }
 
 .Todo-Item:hover .trash-icon {
